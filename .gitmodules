@@ -1,0 +1,3 @@
+[submodule "arc-emulator-python"]
+	path = arc-emulator-python
+	url = https://github.com/Tenbatsu24/arc-emulator-python.git
